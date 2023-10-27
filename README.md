@@ -1,5 +1,5 @@
 # Bem-Vindo ao canal de Administração!
-este canal foi feito exclusívamente para vocês, memebros da parte administratva.
+este canal foi feito exclusívamente para vocês, membros da parte administratva.
 >(**insira o nome**) Líder da Área de Administração.
 
 # Membros
