@@ -1,2 +1,41 @@
-# ADM-Geral
-Canal geral de Administração, destinado para deixar recados, pedidos, anúncios e etc.
+# Bem-Vindo ao canal de Administração!
+este canal foi feito exclusívamente para vocês, memebros da parte administratva.
+>(**insira o nome**) Líder da Área de Administração.
+
+# Membros
+- insira seu nome aqui.
+- insira seu nome aqui.
+- insira seu nome aqui.
+
+# Setores
+- Organização (insira o nome de um responsável)
+- Jurídico (insira o nome de um responsável)
+- Estratégia (insira o nome de um responsável)
+- Evenetos (insira o nome de um responsável)
+- Patrocinadores (insira o nome de um responsável)
+- Marketing (insira o nome de um responsável)
+
+# Como proceder neste repositório:
+atualize o projeto com o nome: **'Administração'** com as informações das tarefas e serviços quando elas estiverem prontas, em andamento e concluídas. Não se esqueça de colococar tag na issue com o nome daquele setor e atríbua pelo menos uma pessoa para aquela tarefa. Mantenha este README atualizado, fique à vontade para modificar e adicionar arquivos neste repositório, criar branchs, ajudar qualquer um e trabalhar em conjunto. 😉
+<hr>
+<br>
+
+### Welcome to Admin channel!
+<h10> this channel is made exclusively for those for you, members of administrate part. </h10>
+> (**insert name**) Leader of Administrate part.
+
+### Members
+- insert your name here.  </h10>
+- insert your name here. </h10>
+- insert your name here. </h10>
+
+### Departments
+- Organization (insert name of a responsible) </h10>
+- Legal (insert name of a responsible) </h10>
+- Strategy (insert name of a responsible) </h10>
+- Events (insert name of a responsible) </h10>
+- Sponsors (insert name of a responsible) </h10>
+- Marketing (insert name of a responsible) </h10>
+
+### How to procede in this repository:
+update the project as a name: **'Administração'** with informations of the tasks and services when its are ready, working and done. Dont forget tag the issue with the department name and assign at least one person to that task. Keep this README uptade, stay free to modify and add archives in this repo, create branchs, help anybody and work together. 😉 </h10>
