@@ -14,10 +14,10 @@ Este canal foi feito exclusívamente para vocês, membros da parte administratva
 
 # Setores
 - Organização- Ana:
-- Jurídico- Beatriz:
+- Jurídico- Amanda;
 - Datas/Eventos: Hanna
 - Patrocinadores: Beatriz
-- Financeiro:Amanda
+- Financeiro:Beatriz;
 - Integração Técnica: Ana
 - Marketing: Thais
 
