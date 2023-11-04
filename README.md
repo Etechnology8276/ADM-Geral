@@ -11,7 +11,7 @@ este canal foi feito exclusívamente para vocês, membros da parte administratva
 - Organização (insira o nome de um responsável)
 - Jurídico (insira o nome de um responsável)
 - Estratégia (insira o nome de um responsável)
-- Evenetos (insira o nome de um responsável)
+- Eventos (insira o nome de um responsável)
 - Patrocinadores (insira o nome de um responsável)
 - Marketing (insira o nome de um responsável)
 
