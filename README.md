@@ -1,6 +1,7 @@
 # Bem-Vindo ao canal de Administração!
-este canal foi feito exclusívamente para vocês, membros da parte administratva.
->(**insira o nome**) Líder da Área de Administração.
+Este canal foi feito exclusívamente para vocês, membros da parte administratva.
+
+*Ana Júlia:* Líder da Área de Administração.
 
 # Membros
 - insira seu nome aqui.
