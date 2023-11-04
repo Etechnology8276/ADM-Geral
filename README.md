@@ -4,17 +4,22 @@ Este canal foi feito exclusívamente para vocês, membros da parte administratva
 *Ana Júlia:* Líder da Área de Administração.
 
 # Membros
-- insira seu nome aqui.
-- insira seu nome aqui.
-- insira seu nome aqui.
+- Amanda Harumi;
+- Beatriz Cardoso;
+- Thais de Melo;
+- Julia;
+- Priscila;
+- João Nobre;
+- Livia Bonelli.
 
 # Setores
-- Organização (insira o nome de um responsável)
-- Jurídico (insira o nome de um responsável)
-- Estratégia (insira o nome de um responsável)
-- Eventos (insira o nome de um responsável)
-- Patrocinadores (insira o nome de um responsável)
-- Marketing (insira o nome de um responsável)
+- Organização- Ana:
+- Jurídico- Beatriz:
+- Datas/Eventos: Hanna
+- Patrocinadores: Beatriz
+- Financeiro:Amanda
+- Integração Técnica: Ana
+- Marketing: Thais
 
 # Como proceder neste repositório:
 atualize o projeto com o nome: **'Administração'** com as informações das tarefas e serviços quando elas estiverem prontas, em andamento e concluídas. Não se esqueça de colococar tag na issue com o nome daquele setor e atríbua pelo menos uma pessoa para aquela tarefa. Mantenha este README atualizado, fique à vontade para modificar e adicionar arquivos neste repositório, criar branchs, ajudar qualquer um e trabalhar em conjunto. 😉
