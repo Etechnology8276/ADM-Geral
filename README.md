@@ -9,8 +9,7 @@
 - Thais de Melo;
 - Julia;
 - Priscila;
-- João Nobre;
-- Livia Bonelli.
+
 
 # SETORES:
 REUNIÕES EXTERNAS
